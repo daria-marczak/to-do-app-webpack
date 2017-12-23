@@ -1,7 +1,5 @@
 import React from "react";
 
-//Twoim zadaniem będzie zaimplementowanie komponentu Title, który będzie wyświetlał tytuł aplikacji wraz z liczbą zadań, które zostały dodane do listy.
-
 const Title = (props) => {
     return (
         <div className="header">
