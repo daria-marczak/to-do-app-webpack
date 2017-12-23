@@ -4,7 +4,7 @@ const Title = (props) => {
     return (
         <div className="header">
             <h1>Task board</h1>
-            <p>Number of tasks is: {props.counter}</p>
+            <p>You have {props.counter} tasks to do</p>
         </div>
     )
 }
