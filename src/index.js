@@ -14,8 +14,3 @@ if (module.hot) {
         );
     });
 }
-
-ReactDOM.render(
-    <App />,
-    document.getElementById("app")
-);
